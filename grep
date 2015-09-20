@@ -1,0 +1,1 @@
+grep is used to find all lines of text that match a given pattern e.g. ^grep finds all lines that begin with 'grep'
